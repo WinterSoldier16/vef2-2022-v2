@@ -16,6 +16,10 @@ body {
   margin: 0 auto;
   max-width: 900px;
   padding: 1rem;
+  --color-white: #eee;
+  --color-accent: #aa6;
+  --color-accent-dark: #663;
+  --color-accent-light: #cc8;
 }
 
 h1,
